@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nachofmoran/wordle-app.git/static/css/main.fecb0829.css",
+    "main.js": "/nachofmoran/wordle-app.git/static/js/main.506a28bb.js",
+    "static/js/787.e01666d6.chunk.js": "/nachofmoran/wordle-app.git/static/js/787.e01666d6.chunk.js",
+    "index.html": "/nachofmoran/wordle-app.git/index.html",
+    "main.fecb0829.css.map": "/nachofmoran/wordle-app.git/static/css/main.fecb0829.css.map",
+    "main.506a28bb.js.map": "/nachofmoran/wordle-app.git/static/js/main.506a28bb.js.map",
+    "787.e01666d6.chunk.js.map": "/nachofmoran/wordle-app.git/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fecb0829.css",
+    "static/js/main.506a28bb.js"
+  ]
+}
